@@ -1,0 +1,8 @@
+{
+  "name": "ReactIonicSlidesExample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "c867b502"
+}
